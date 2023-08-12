@@ -35,6 +35,3 @@ The project is structured as follows:
 3. Enter numbers using the number buttons.
 4. Use the operator buttons (+, -, *, /) to select the desired operation.
 5. Press the equal (=) button to see the result of the calculation.
-
-
-Feel free to customize and enhance this readme according to your specific project details and preferences.
